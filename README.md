@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @quincyfox.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning `Git`, `HTML`, `CSS`, `JavaScript`, `Kotlin`, and `Android Development`.
-- 💞️ I’m looking to collaborate on any open-source projects on web dev.
+- 🌱 I’m currently learning `Git`, `Bash`, `HTML`, `CSS`, and `JavaScript`.
+- 💞️ Let's collaborate!
 - 📫 How to reach me **qf.devmd@gmail.com**.
 
 <!---
