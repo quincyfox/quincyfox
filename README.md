@@ -1,9 +1,10 @@
 <img src="banner.svg" alt="qf_banner" width="100%">
 
-- 👋 Hi, I’m @quincyfox.
-- 👀 I’m interested in Linux.
-- 🌱 I’m currently learning `Linux`, `Arch Linux`, `Bash`, and ricing my Linux setup.
-- Not a tech expert, just a hobbyist who loves to tinker with tech stuff.
+- 👋 Hi, I’m `quincyfox`.
+- 👀 I’m interested in anything tech-related.
+- 🌱 I’m currently learning `linux`, `bash`, and ricing my Linux setup.
+- 🏹 I use `Arch`, btw.
+- 🛠️ I'm not a tech expert, just a hobbyist who loves tinkering with my computer in my spare time.
 
 <!---
 quincyfox/quincyfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
