@@ -1,4 +1,4 @@
-![quincyfox](https://github.com/quincyfox/quincyfox/assets/152384382/9ac07efe-edd2-41b2-ab7b-28f660898c45)
+<img src="banner.svg" alt="qf_banner" width="100%">
 
 - 👋 Hi, I’m @quincyfox.
 - 👀 I’m interested in Linux.
