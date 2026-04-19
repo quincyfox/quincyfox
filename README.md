@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m `quincyfox`.
 - 👀 I’m interested in anything tech-related.
-- 🌱 I’m currently learning `linux`, `bash`, and ricing my Linux setup.
+- 🌱 I’m currently learning about `linux`, `bash` scripting, and ricing my Linux setup.
 - 🏹 I use `Arch`, btw.
 - 🛠️ I'm not a tech expert, just a hobbyist who loves tinkering with my computer in my spare time.
 
