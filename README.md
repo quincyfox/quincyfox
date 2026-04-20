@@ -7,6 +7,22 @@
 - 🏹 I use `Arch`, btw. But spare me from `Gentoo`, I don't want to go `cuckoo`. 🤪
 - 🛠️ I'm not a tech expert, just a hobbyist who loves tinkering with my computer in my spare time.
 
+## My Stack
+
+<table>
+  <tr>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="90" width="90"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="90" width="90"/>
+    </td>
+    <td>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="90" width="90"/>
+    </td>
+  </tr>
+</table>
+
 <!---
 quincyfox/quincyfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
