@@ -1,6 +1,7 @@
 <img src="banner.svg" alt="qf_banner" width="100%">
 
-- 👋 Hi, I’m `quincyfox`.
+## About Me
+- 👋 Hi, I’m `quincyfox`. Welcome to my GitHub page!
 - 👀 I’m interested in anything tech-related.
 - 🌱 I’m currently learning about `linux`, `bash` scripting, and ricing my Linux setup.
 - 🏹 I use `Arch`, btw. But spare me from `Gentoo`, I don't want to go `cuckoo`. 🤪
