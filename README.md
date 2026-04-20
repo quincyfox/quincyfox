@@ -9,19 +9,7 @@
 
 ## My Stack
 
-<table>
-  <tr>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="90" width="90"/>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" height="90" width="90"/>
-    </td>
-    <td>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" height="90" width="90"/>
-    </td>
-  </tr>
-</table>
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,bash,windows)](https://skillicons.dev)
 
 <!---
 quincyfox/quincyfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
